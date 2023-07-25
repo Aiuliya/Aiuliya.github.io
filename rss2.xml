@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>异次元的小屋</title>
+    <link>https://aiuliya.github.io/</link>
+    
+    <image>
+      <url>https://aiuliya.github.io/icon.png</url>
+      <title>异次元的小屋</title>
+      <link>https://aiuliya.github.io/</link>
+    </image>
+    
+    <atom:link href="https://aiuliya.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>我是寒冬 知晓结局，你是春天 知道开端。紫藤花开 愿生生不息</description>
+    <pubDate>Tue, 25 Jul 2023 16:34:40 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://aiuliya.github.io/hello-world/</link>
+      <guid>https://aiuliya.github.io/hello-world/</guid>
+      <pubDate>Fri, 21 Jul 2023 12:41:59 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://aiuliya.github.io/hello-world/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
