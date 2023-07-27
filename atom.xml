@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>异次元的小屋</title>
-  <icon>https://aiuliya.github.io/icon.png</icon>
+  <icon>https://ailuliya.12yun.xyz/icon.png</icon>
   <subtitle>这里是快乐源泉</subtitle>
-  <link href="https://aiuliya.github.io/atom.xml" rel="self"/>
+  <link href="https://ailuliya.12yun.xyz/atom.xml" rel="self"/>
   
-  <link href="https://aiuliya.github.io/"/>
+  <link href="https://ailuliya.12yun.xyz/"/>
   <updated>2023-07-25T16:34:40.148Z</updated>
-  <id>https://aiuliya.github.io/</id>
+  <id>https://ailuliya.12yun.xyz/</id>
   
   <author>
     <name>清子鸢</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://aiuliya.github.io/hello-world/"/>
-    <id>https://aiuliya.github.io/hello-world/</id>
+    <link href="https://ailuliya.12yun.xyz/hello-world/"/>
+    <id>https://ailuliya.12yun.xyz/hello-world/</id>
     <published>2023-07-21T12:41:59.692Z</published>
     <updated>2023-07-25T16:34:40.148Z</updated>
     

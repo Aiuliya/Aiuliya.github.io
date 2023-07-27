@@ -4,15 +4,15 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>异次元的小屋</title>
-    <link>https://aiuliya.github.io/</link>
+    <link>https://ailuliya.12yun.xyz/</link>
     
     <image>
-      <url>https://aiuliya.github.io/icon.png</url>
+      <url>https://ailuliya.12yun.xyz/icon.png</url>
       <title>异次元的小屋</title>
-      <link>https://aiuliya.github.io/</link>
+      <link>https://ailuliya.12yun.xyz/</link>
     </image>
     
-    <atom:link href="https://aiuliya.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://ailuliya.12yun.xyz/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>我是寒冬 知晓结局，你是春天 知道开端。紫藤花开 愿生生不息</description>
     <pubDate>Tue, 25 Jul 2023 16:34:40 GMT</pubDate>
@@ -20,8 +20,8 @@
     
     <item>
       <title>Hello World</title>
-      <link>https://aiuliya.github.io/hello-world/</link>
-      <guid>https://aiuliya.github.io/hello-world/</guid>
+      <link>https://ailuliya.12yun.xyz/hello-world/</link>
+      <guid>https://ailuliya.12yun.xyz/hello-world/</guid>
       <pubDate>Fri, 21 Jul 2023 12:41:59 GMT</pubDate>
       
         
@@ -37,7 +37,7 @@
       
       
       
-      <comments>https://aiuliya.github.io/hello-world/#disqus_thread</comments>
+      <comments>https://ailuliya.12yun.xyz/hello-world/#disqus_thread</comments>
       
     </item>
     
