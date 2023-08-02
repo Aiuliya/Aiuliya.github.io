@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ailuliya.12yun.xyz/hello-world/</loc>
+    <loc>https://ailuliya.12yun.xyz/p/14373/</loc>
     
-    <lastmod>2023-07-25</lastmod>
+    <lastmod>2023-08-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ailuliya.12yun.xyz/p/hello-world/</loc>
+    
+    <lastmod>2023-08-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +58,7 @@
 
   <url>
     <loc>https://ailuliya.12yun.xyz/</loc>
-    <lastmod>2023-07-27</lastmod>
+    <lastmod>2023-08-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
